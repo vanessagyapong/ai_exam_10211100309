@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+tf-keras
+python-dotenv
+requests
+sentence-transformers
+qdrant-client
+pypdf
+langchain
